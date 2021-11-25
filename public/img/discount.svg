@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.048" height="50" viewBox="0 0 50.048 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.054" x2="0.5" y2="1.361" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff223e"/>
+      <stop offset="1" stop-color="#b5182c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.571" y1="0.705" x2="0.425" y2="0.239" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#690e19"/>
+      <stop offset="0.994" stop-color="#ba192d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_48" data-name="Group 48" transform="translate(-193.464 -184)">
+    <g id="Group_44" data-name="Group 44" transform="translate(193.464 184)">
+      <path id="Path_49" data-name="Path 49" d="M241.527,217.678c.256-.318.392-.708.675-1.008,0,0,.008,0,.011-.008a25.024,25.024,0,1,0-26.356,17.255,3.017,3.017,0,0,0,1.891-.428c4.086-2.523,20.678-13.472,23.768-15.79C241.521,217.692,241.522,217.685,241.527,217.678Z" transform="translate(-193.361 -184)" fill="url(#linear-gradient)"/>
+      <g id="Group_43" data-name="Group 43" transform="translate(18.754 32.412)">
+        <path id="Path_50" data-name="Path 50" d="M263.325,252.687a2.3,2.3,0,0,1-2.188.882,21.674,21.674,0,0,0-2.672.119,24.971,24.971,0,0,0-14.3,6.487,25.112,25.112,0,0,0-5.686,7.734,3.666,3.666,0,0,1-1.272,1.253c-2,1.165-3.053.532-4.057.374a9.9,9.9,0,0,0,4.365.71c2.587-.159,9.348-3.9,14.837-7.643a68.237,68.237,0,0,0,9.181-7.5,10.971,10.971,0,0,0,.816-.806A5.577,5.577,0,0,0,263.325,252.687Z" transform="translate(-233.153 -252.687)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_47" data-name="Group 47" transform="translate(207.464 198)">
+      <g id="Group_46" data-name="Group 46" transform="translate(0)">
+        <g id="Group_45" data-name="Group 45">
+          <text id="_50_" data-name="50%" transform="translate(1.22 9)" fill="#fff" font-size="9" font-family="Montserrat-BlackItalic, Montserrat" font-weight="800" font-style="italic"><tspan x="0" y="0">50%</tspan></text>
+          <text id="OFF" transform="translate(0 19.618)" fill="#fff" font-size="9" font-family="Montserrat-BlackItalic, Montserrat" font-weight="800" font-style="italic"><tspan x="0" y="0">OFF</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

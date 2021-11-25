@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'DIN';
+  src: url("./DIN_NEXT_ARABIC_REGULAR.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN';
+  src: url("./DIN_NEXT_ARABIC_MEDIUM.woff2") format('woff2');
+  font-weight: medium;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN';
+  src: url("./DIN_NEXT_ARABIC_BOLD.woff2") format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+body{
+  font-family: 'DIN' , sans-serif;
+}
