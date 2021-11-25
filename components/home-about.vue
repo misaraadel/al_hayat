@@ -182,4 +182,20 @@ const aboutDesc= 'الحياة أعظم نعمة ، نحن نقدرها مثلك
         }
     }
 }
+
+@media(max-width: 999px){
+    .about{
+        .list{
+            flex-direction: column !important;
+            justify-content: center !important;
+            align-items: center !important;
+            text-align: center !important;
+
+            .content{
+                width: 100% !important;
+                padding: 20px 0px !important;
+            }
+        }
+    }   
+}
 </style>
